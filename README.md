@@ -2,3 +2,5 @@
 Qualifications:
 > OSCP
 > OSEP
+> OSCE
+> OSWE
