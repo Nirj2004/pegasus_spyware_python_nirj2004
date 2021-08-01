@@ -1,1 +1,4 @@
-# pegasus_spyware_python_nirj2004
+# Hi, I am Nirjhar Biswas a cyber security guy ,  a programmer and am ethical hacker.
+Qualifications:
+> OSCP
+> OSEP
